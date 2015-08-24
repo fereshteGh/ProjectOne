@@ -1,0 +1,4 @@
+[Deposit{balance=545966600000, duration=1000, customerNumber=658951, payedInterest=10919332000000000}
+, Deposit{balance=200000, duration=25, customerNumber=534900, payedInterest=50000000}
+, Deposit{balance=145000, duration=38, customerNumber=48483, payedInterest=0}
+]
